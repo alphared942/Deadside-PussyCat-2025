@@ -50,9 +50,9 @@ Highly configurable aim support for training or simulation environments:
 
 | Component            | Requirement                                         |
 |----------------------|-----------------------------------------------------|
-| **OS**               | Windows 10 / 11 (x64 only)                          |
-| **Disk Format**      | GPT (❗ MBR not supported)                           |
-| **CPU**              | Intel / AMD with AVX1 support                       |
+| **OS**               | Windows 10 / 11                         |
+| **Disk Format**      | ALL                            |
+| **CPU**              | Intel / AMD                     |
 | **Overlay Compatibility** | Not hidden in OBS / screen recordings        |
 | **Game Modes**       | All (Windowed, Fullscreen, Borderless)              |
 | **Built-in Spoofer** | ✅ Included                                          |
